@@ -20,7 +20,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://ikonopl733-maker.github.io/nice-satoshi/",
   "browserslist": [
     ">0.2%",
     "not dead",
