@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nice-satoshi/static/css/main.07ca80ea.css",
+    "main.js": "/nice-satoshi/static/js/main.99165cd5.js",
+    "index.html": "/nice-satoshi/index.html",
+    "main.07ca80ea.css.map": "/nice-satoshi/static/css/main.07ca80ea.css.map",
+    "main.99165cd5.js.map": "/nice-satoshi/static/js/main.99165cd5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07ca80ea.css",
+    "static/js/main.99165cd5.js"
+  ]
+}
